@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Surya Sangam</h1>
+<h1 align="center">:seedling:Hi :relaxed: , I'm Surya Sangam </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-1312&label=Profile%20views&color=0e75b6&style=flat" alt="surya-1312" /> </p>
 
- :clock1: i am currently learning **Python and Machine Learning **
+ :clock1: i am currently learning **Python and Machine Learning**
  
  :clock2: How to reach me **sangams1312@gmail.com**
 
