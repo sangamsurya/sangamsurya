@@ -1,4 +1,4 @@
-<h1 style=color:blue; align="center">:seedling:Hi 🙂 , I am Surya Sangam </h1>
+<h1 align="center">:seedling:Hi 🙂 , I am Surya Sangam </h1>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-1312&label=Profile%20views&color=0e75b6&style=flat" alt="surya-1312" /> </p>
  
