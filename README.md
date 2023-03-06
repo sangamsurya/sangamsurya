@@ -1,7 +1,5 @@
-<h1 align="center">Hi 🙂 , I am Surya Sangam </h1>
+<h1 align="center">Hi,I am Surya Sangam </h1>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-1312&label=Profile%20views&color=0e75b6&style=flat" alt="surya-1312" /> </p>
- 
  :clock1: i am currently learning **Python and Data structure**
  
  :clock2: How to reach me **sangams1312@gmail.com**
@@ -10,7 +8,6 @@
 <p align="left">
 <a href="https://dev.to/@surya1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@surya1312" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/surya-sangam-sur2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-sangam-sur2201" height="30" width="40"/></a>
-<a href="https://instagram.com/suryadangi_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryadangi_2" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
