@@ -30,5 +30,4 @@ Description: This is Voice to Voice by using This We Talk to Our Friend in Any L
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/surya0202/)
-- [Email](mailto:surya.sangam.py@gmail.com)
 - [skype](https://join.skype.com/invite/q8eDh4drMYjw)
