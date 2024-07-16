@@ -1,24 +1,24 @@
 # Hi there 👋
 
 ## About Me
-I'm [Your Name], a passionate developer with a keen interest in [Your Interests, e.g., Python, Data Structures, Machine Learning]. I love building innovative solutions and contributing to open-source projects.
+I'm surya sangam, a passionate developer with interest in Python, Data Structures, And Api Development. I love building innovative solutions and contributing to open-source projects.
 
-- 🌱 I’m currently learning: Python and Data Structures
-- 👯 I’m looking to collaborate on: [Projects or Topics of Interest]
-- 💬 Ask me about: [Your Expertise Areas]
-- 📫 How to reach me: [Your Email or Social Media Handles]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🌱 I’m currently learning: Python and Data Structures.
+- 👯 I’m looking to collaborate on: Ai-ml Projects.
+- 💬 Ask me about: Python , Api Development, DBMS.
+- 📫 How to reach me: surya.sangam.py@gmail.com
+
 
 ## Skills
-- **Languages:** Python, [Other Languages]
-- **Technologies:** [Technologies you are familiar with]
-- **Tools:** [Tools you use]
+- **Languages:** Python , javascript(React)
+- **Technologies:** AWS , Pandas
+- **Tools:** Git, Docker, VS Code 
 
 ## Projects
 Here are some of the projects I’ve been working on:
 
-### [Project 1 Name]
-Description: A brief description of what the project is about.
+### Task Management App:
+Description: This is the Task Management App which is Used in IT company for Get the List of His Employee and The All Information About the Employee. BY Using this We Assigned A Task to An Employee And Also See the Task of Employee. 
 
 ### [Project 2 Name]
 Description: A brief description of what the project is about.
