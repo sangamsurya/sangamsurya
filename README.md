@@ -5,7 +5,7 @@ I'm surya sangam, a passionate developer with interest in Python, Data Structure
 
 - 🌱 I’m currently learning: Python and Data Structures.
 - 👯 I’m looking to collaborate on: Ai-ml Projects.
-- 💬 Ask me about: Python , Api Development, DBMS.
+- 💬 Ask me about: Python , Api Development, Sql and Nosql Databases
 - 📫 How to reach me: surya.sangam.py@gmail.com
 
 
