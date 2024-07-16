@@ -29,6 +29,6 @@ Description: This is Voice to Voice by using This We Talk to Our Friend in Any L
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=surya-1312&show_icons=true&theme=radical)
 
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/surya0202)
-- [mail](surya.sangam.py@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/surya0202/)
+- [mail](mailto:surya.sangam.py@gmail.com)
 - [skype](https://join.skype.com/invite/q8eDh4drMYjw)
