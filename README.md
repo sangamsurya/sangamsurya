@@ -7,9 +7,11 @@ I'm **surya sangam**, a passionate developer with interest in Python, Data Struc
 - 📫 How to reach me: surya.sangam.py@gmail.com.
 
 ## Skills
-- **Languages:** Python , Basic javascript(React)
-- **Technologies:** AWS   
-- **Tools:** Git, Docker, VS Code 
+- **Languages:** Python, Basic JavaScript (React), C (basic knowledge)
+- **Technologies:** AWS (S3, Lambda, API Gateway, DynamoDB, RDBMS), Microservices Architecture, Docker
+- **Databases:** SQL (RDS), NoSQL (DynamoDB, MongoDB)  
+- **Tools:** Git, Docker, VS Code , Flask
+- **Other Skills:** API Development, Data Structures, Algorithms
 
 ## Projects
 Here are some of the projects I’ve been working on:
