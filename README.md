@@ -36,5 +36,8 @@ Description: Voice-2-Voice allows users to communicate with friends in any langu
 Repositories Link: https://github.com/surya-1312/Voice-To-Text_And_Language_Translator
 
 ## Connect with Me
+
 - [LinkedIn](https://www.linkedin.com/in/surya0202/)
 - [skype](https://join.skype.com/invite/q8eDh4drMYjw)
+
+[Download Resume](https://github.com/user-attachments/files/17007625/Resume.pdf)
