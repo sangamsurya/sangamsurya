@@ -2,26 +2,31 @@
 I'm surya sangam, a passionate developer with interest in Python, Data Structures, And Api Development. I love building innovative solutions and contributing to open-source projects.
 
 - 🌱 I’m currently learning: Python and Data Structures.
-- 👯 I’m looking to collaborate on: Ai-ml Projects.
-- 💬 Ask me about: Python , Api Development, Sql and Nosql Databases
-- 📫 How to reach me: surya.sangam.py@gmail.com
-
+- 👯 I’m looking to collaborate on: Ai-Ml Projects.
+- 💬 Ask me about: Python , Api Development, Sql and Nosql Databases.
+- 📫 How to reach me: surya.sangam.py@gmail.com.
 
 ## Skills
-- **Languages:** Python , javascript(React)
-- **Technologies:** AWS , Pandas
+- **Languages:** Python , Basic javascript(React)
+- **Technologies:** AWS   
 - **Tools:** Git, Docker, VS Code 
 
 ## Projects
 Here are some of the projects I’ve been working on:
 
 ### Task Management App:
-I worked on this Project During my Internship period.
-Description: This is the Task Management App which is Used in IT company for Get the List of His Employee and The All Information About the Employee. BY Using this We Assigned A Task to An Employee And Also See the Task of Employee. 
+I have worked on this project during my internship at Techaffy.
+Description: This app is used by IT companies to manage and monitor employees. It helps assign tasks to employees, track their progress, and view detailed employee information.
+Repositories Link: https://github.com/surya-1312/Tech_Task_Management_App
+
+### Tracking Application:
+During my internship at Techaffy, I converted an existing monolithic tracking system into a microservices architecture.
+Description: This tracking system monitors and counts clicks on offers for an advertising platform. It provides real-time insights for advertisers and publishers, enhancing the effectiveness of marketing campaigns by tracking user engagement.
 
 ### Voice-2-Voice:
-This is my Own Project Developed By me .
-Description: This is Voice to Voice by using This We Talk to Our Friend in Any Languange And he/she Also Listen my Voice in Any Language And Also the message is Printed in her Language
+This is a personal project I developed.
+Description: Voice-2-Voice allows users to communicate with friends in any language. It translates spoken words into the listener’s language and also displays the message text in their native language.
+Repositories Link: https://github.com/surya-1312/Voice-To-Text_And_Language_Translator
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/surya0202/)
