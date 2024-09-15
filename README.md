@@ -16,21 +16,16 @@ Here are some of the projects I’ve been working on:
 
 ### Task Management App:
 I have worked on this project during my internship at Techaffy.
-
 Description: This app is used by IT companies to manage and monitor employees. It helps assign tasks to employees, track their progress, and view detailed employee information.
-
 Repositories Link: https://github.com/surya-1312/Tech_Task_Management_App
 
 ### Tracking Application:
 During my internship at Techaffy, I converted an existing monolithic tracking system into a microservices architecture.
-
 Description: This tracking system monitors and counts clicks on offers for an advertising platform. It provides real-time insights for advertisers and publishers, enhancing the effectiveness of marketing campaigns by tracking user engagement.
 
 ### Voice-2-Voice:
 This is a personal project I developed.
-
 Description: Voice-2-Voice allows users to communicate with friends in any language. It translates spoken words into the listener’s language and also displays the message text in their native language.
-
 Repositories Link: https://github.com/surya-1312/Voice-To-Text_And_Language_Translator
 
 ## Connect with Me
