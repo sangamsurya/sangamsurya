@@ -40,5 +40,7 @@ Repositories Link: https://github.com/surya-1312/Voice-To-Text_And_Language_Tran
 - [LinkedIn](https://www.linkedin.com/in/surya0202/)
 - [skype](https://join.skype.com/invite/q8eDh4drMYjw)
 
-[Download Resume](https://github.com/user-attachments/files/17007625/Resume.pdf)
-[![My Button](https://img.shields.io/badge/Click_Me-Button-blue)](https://example.com)
+## Download My Resume
+
+[![Download Resume](https://img.shields.io/badge/Download-Resume-brightgreen)](https://github.com/user-attachments/files/17007625/Resume.pdf)
+
