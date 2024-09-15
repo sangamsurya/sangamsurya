@@ -25,10 +25,6 @@ Description: This is the Task Management App which is Used in IT company for Get
 This is my Own Project Developed By me .
 Description: This is Voice to Voice by using This We Talk to Our Friend in Any Languange And he/she Also Listen my Voice in Any Language And Also the message is Printed in her Language
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=surya-1312&show_icons=true&hide=stars&theme=radical&count_private=true&bg_color=30,e96443,904e95&text_color=ffffff&icon_color=2bbc8a)
-
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/surya0202/)
 - [skype](https://join.skype.com/invite/q8eDh4drMYjw)
