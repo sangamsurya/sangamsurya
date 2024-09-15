@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## About Me
 I'm surya sangam, a passionate developer with interest in Python, Data Structures, And Api Development. I love building innovative solutions and contributing to open-source projects.
 
