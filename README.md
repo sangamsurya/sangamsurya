@@ -33,7 +33,7 @@ This is a personal project I developed.
 
 Description: Voice-2-Voice allows users to communicate with friends in any language. It translates spoken words into the listener’s language and also displays the message text in their native language.
 
-Repositories Link: https://github.com/surya-1312/Voice-To-Text_And_Language_Translator
+Repositories Link: https://github.com/sangamsurya/Voice-2-Voice
 
 ## Connect with Me
 
