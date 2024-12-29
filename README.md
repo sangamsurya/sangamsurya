@@ -1,7 +1,7 @@
 ## About Me
 I'm **surya sangam**, a passionate developer with interest in Python, Data Structures, And Api Development. I love building innovative solutions and contributing to open-source projects.
 
-- 🌱 I’m currently learning: Python and Data Structures.
+- 🌱 I’m currently Exploring: Advance Python And Data Structures.
 - 👯 I’m looking to collaborate on: Ai-Ml Projects.
 - 💬 Ask me about: Python , Api Development, Sql and Nosql Databases.
 - 📫 How to reach me: surya.sangam.py@gmail.com.
