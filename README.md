@@ -44,4 +44,6 @@ Repositories Link: https://github.com/sangamsurya/Voice-2-Voice
 
 [![Download Resume](https://img.shields.io/badge/Download-Resume-blue)](https://github.com/user-attachments/files/17007625/Resume.pdf)
 
+work as a intern in Klizo Solution
+
 
